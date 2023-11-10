@@ -1,0 +1,37 @@
+/* app/assets/stylesheets/application.css */
+
+/* Add your CSS styles here */
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #e7afd5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+
+  .image{
+    width: 100px;
+    height: auto
+  }
+  .image-container{
+    width: 100px;
+    height: 100px
+  }
+  
+  /* Add more styles as needed */
